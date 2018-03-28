@@ -13,11 +13,6 @@ body {
   height: 100%;
 }
 
-.title p:hover {
-  color: #483285;
-  background-color: transparent;
-  transition: ease-in-out 3s;
-}
 
 .header {
   font-weight: 300;
